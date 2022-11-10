@@ -1,0 +1,69 @@
+
+.logo{
+   margin: 2.6%;
+}
+.header_{
+   margin-top: 50px;
+}
+.pic1{
+   margin-top: 85px;
+}
+.section1{
+   margin-top: 140px;
+}
+.card_{
+   padding: 19px 29px;
+   border-radius: 10px;
+   box-shadow: 0px 0px 10px 5px rgba(56, 56, 56, 0.0458843);;
+}
+.shfw{
+   border-bottom: solid 1px green;
+   width: 166px !important;
+   margin-bottom: 50px;
+}
+.name{
+   display: inline-block;
+}
+.pp{
+   margin-bottom: 24px;
+}
+.section3{
+   margin-top: 140px;
+   padding: 99px 39px;
+   background-color: #575988;
+}
+.section3_input{
+   height: 50px;
+}
+.section3_button{
+   height: 50px;
+   border: none;
+   
+   background-color: #2F65F8;
+}
+.section3_rght{
+   padding-left: 100px;
+}
+.footer_ul ul li a{
+   color: white;
+   text-decoration: none;
+}
+.footer_icon ul li{
+   display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
